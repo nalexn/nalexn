@@ -1,4 +1,4 @@
-### About me?
+### whoami
 
 I'm Alexey. Cat lover, living with a dog 🤦‍♂️
 
