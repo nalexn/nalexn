@@ -2,7 +2,7 @@
 
 I'm Alexey. Cat lover, living with a dog 🤦‍♂️
 
-MS CS, developing for Apple platforms since 2011.
+M.S. CS, developing for Apple platforms since 2011.
 
 Obsessed with superior software design, clean code, data-driven architectures, and team productivity boosters.
 
