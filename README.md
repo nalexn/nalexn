@@ -1,6 +1,6 @@
 ### whoami
 
-I'm Alexey. Cat lover, living with a dog 🤦‍♂️
+I'm Alexey. A cat person living with a dog 🤷🏼‍♂️
 
 M.S. CS, developing for Apple platforms since 2011.
 
